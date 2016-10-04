@@ -1,0 +1,10 @@
+c:\users\teyrtoruk\documents\visual studio 2015\Projects\stickyNotes\stickyNotes\bin\Debug\stickyNotes.exe.config
+c:\users\teyrtoruk\documents\visual studio 2015\Projects\stickyNotes\stickyNotes\bin\Debug\stickyNotes.exe
+c:\users\teyrtoruk\documents\visual studio 2015\Projects\stickyNotes\stickyNotes\bin\Debug\stickyNotes.pdb
+c:\users\teyrtoruk\documents\visual studio 2015\Projects\stickyNotes\stickyNotes\obj\Debug\stickyNotes.csprojResolveAssemblyReference.cache
+c:\users\teyrtoruk\documents\visual studio 2015\Projects\stickyNotes\stickyNotes\obj\Debug\stickyNotes.MainForm.resources
+c:\users\teyrtoruk\documents\visual studio 2015\Projects\stickyNotes\stickyNotes\obj\Debug\stickyNotes.NoteForm.resources
+c:\users\teyrtoruk\documents\visual studio 2015\Projects\stickyNotes\stickyNotes\obj\Debug\stickyNotes.Properties.Resources.resources
+c:\users\teyrtoruk\documents\visual studio 2015\Projects\stickyNotes\stickyNotes\obj\Debug\stickyNotes.csproj.GenerateResource.Cache
+c:\users\teyrtoruk\documents\visual studio 2015\Projects\stickyNotes\stickyNotes\obj\Debug\stickyNotes.exe
+c:\users\teyrtoruk\documents\visual studio 2015\Projects\stickyNotes\stickyNotes\obj\Debug\stickyNotes.pdb
